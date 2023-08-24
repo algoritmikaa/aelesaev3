@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+
+}
+header {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+header a {
+    border: 2px solid  white;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+    background-color: paleturquoise;
+    border: 1px solid paleturquoise;
+    border-radius: 9px;
+    padding: 3p;
+}
+
+.aa {
+    background-color: chartreuse;
+    margin: 10px;
+}
+
+nav {
+    background-color: forestgreen;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin: 50px;
+    
+}
+
+.ss {
+    background-color: yellowgreen;
+    padding: 15px;
+}
